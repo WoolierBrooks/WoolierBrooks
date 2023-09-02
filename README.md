@@ -17,9 +17,11 @@
 
 ### Languages and Tools:
 
-<img src="./img/python-dark.svg" alt="python" width="50"/>
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/WoolierBrooks#gh-light-mode-only)
+[![website](./img/python-dark.svg)](https://linkedin.com/in/julio-cardus#gh-dark-mode-only)
 &nbsp;&nbsp;
-<img src="./img/vscode-dark.svg" alt="vscode" width="50"/>
+[![website](./img/instagram-light.svg)](https://instagram.com/WoolierBrooks#gh-light-mode-only)
+[![website](./img/python-dark.svg)](https://instagram.com/WoolierBrooks#gh-dark-mode-only)
 
 <br />
 <br />
