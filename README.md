@@ -1,4 +1,4 @@
-# Hi there, I'm Julio - aka [WoolierBrooks][youtube] 👋 
+# Hi there, I'm [WoolierBrooks][youtube] 👋 
 
 ## I'm a biotechnology student with a strong interest in bioinformatics!
 
