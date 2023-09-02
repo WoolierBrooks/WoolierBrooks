@@ -22,41 +22,6 @@
 <img src="./img/vscode-dark.svg" alt="angular-js" width="50"/>
 </p>
 
-!(./img/python-dark.svg)
-&nbsp;&nbsp;
-(./img/vscode-dark.svg)
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Dark Mode &amp; Themes in shadcn/ui: Style Your App with Ease! #shadcn #ui](https://www.youtube.com/watch?v=GRdAcBOLOA4)
-- [Why Shadcn Over Radix? Customizable Components Made Easy! #shadcn #ui](https://www.youtube.com/watch?v=8bhHHbopE30)
-- [Shadcn/UI Without Installation: Radix UI &amp; Tailwind CSS Combined! #shadcn #ui](https://www.youtube.com/watch?v=N4YiL2cHNLc)
-- [Shadcn/ui Unveiled: Copy, Paste, and Build with React Components!  #shadcn #ui](https://www.youtube.com/watch?v=YP4ynIwMWrs)
-- [The Best UI Components that EVERYONE is Using!](https://www.youtube.com/watch?v=DTGRIaAJYIo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/WoolierBrooks)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Render ATL 2023 Trip Report](https://dev.to/WoolierBrooks/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/WoolierBrooks/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/WoolierBrooks/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/WoolierBrooks/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/WoolierBrooks/microinteractions-password-validation-animation-5629)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://WoolierBrooks.com)
-
 ---
 
 <details>
