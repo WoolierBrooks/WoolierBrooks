@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/WoolierBrooks#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/julio-cardus#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/julio-cardus#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/WoolierBrooks#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/WoolierBrooks#gh-dark-mode-only)
