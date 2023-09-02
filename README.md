@@ -17,6 +17,11 @@
 
 ### Languages and Tools:
 
+<p align="left">
+<img src="./img/python-dark.svg" alt="react" width="50">
+<img src="./img/vscode-dark.svg" alt="angular-js" width="50"/>
+</p>
+
 !(./img/python-dark.svg)
 &nbsp;&nbsp;
 (./img/vscode-dark.svg)
