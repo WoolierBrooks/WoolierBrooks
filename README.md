@@ -17,6 +17,10 @@
 
 ### Languages and Tools:
 
+| ![python](./img/python-dark.svg) | ![vscode](./img/vscode-dark.svg) |
+|:--:|:--:|
+| Python | VS Code |
+
 <img src="./img/python-dark.svg" alt="python" width="50"/>
 <img src="./img/vscode-dark.svg" alt="vscode" width="50"/>
 
