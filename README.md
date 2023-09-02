@@ -9,15 +9,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://WoolierBrooks.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://WoolierBrooks.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/WoolierBrooks#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/WoolierBrooks#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/WoolierBrooks#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/WoolierBrooks#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/WoolierBrooks#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/WoolierBrooks#gh-dark-mode-only)
 &nbsp;&nbsp;
