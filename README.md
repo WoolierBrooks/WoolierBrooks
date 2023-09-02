@@ -17,10 +17,8 @@
 
 ### Languages and Tools:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/WoolierBrooks#gh-light-mode-only)
 [![website](./img/python-dark.svg)]
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/WoolierBrooks#gh-light-mode-only)
 [![website](./img/vscode-dark.svg)]
 
 <br />
