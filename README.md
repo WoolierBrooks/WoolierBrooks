@@ -17,9 +17,9 @@
 
 ### Languages and Tools:
 
-![website](./img/python-dark.svg)
+!(./img/python-dark.svg)
 &nbsp;&nbsp;
-![website](./img/vscode-dark.svg)
+(./img/vscode-dark.svg)
 
 <br />
 <br />
