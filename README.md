@@ -17,38 +17,8 @@
 
 ### Languages and Tools:
 
-<div class="image-container">
-  <div style="display: inline-block;">
-    <img src="./img/python-dark.svg" alt="python" width="50"/>
-  </div>
-  <div style="display: inline-block;">
-    <img src="./img/vscode-dark.svg" alt="vscode" width="50"/>
-  </div>
-</div>
-
-<style>
-  .image-container {
-    white-space: nowrap; /* Evita quebras de linha */
-  }
-
-  .image-container div {
-    margin-right: 10px; /* Espaçamento entre as imagens */
-  }
-</style>
-
-
-<div style="display: inline-block;">
-  <img src="./img/python-dark.svg" alt="python" width="50"/>
-</div>
-<div style="display: inline-block;">
-  <img src="./img/vscode-dark.svg" alt="vscode" width="50"/>
-</div>
-a
-| ![python](./img/python-dark.svg) | ![vscode](./img/vscode-dark.svg) |
-|:--:|:--:|
-| Python | VS Code |
-
 <img src="./img/python-dark.svg" alt="python" width="50"/>
+&nbsp;&nbsp;
 <img src="./img/vscode-dark.svg" alt="vscode" width="50"/>
 
 <br />
