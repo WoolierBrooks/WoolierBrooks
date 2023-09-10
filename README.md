@@ -24,15 +24,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="WoolierBrooks's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WoolierBrooks&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://WoolierBrooks.com
-[course]: http://vsCodeHero.com
+[website]: https://woolierbrooks.com
 [twitter]: https://twitter.com/WoolierBrooks
 [youtube]: https://youtube.com/WoolierBrooks
 [instagram]: https://instagram.com/WoolierBrooks
@@ -42,6 +34,5 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 Currently working on:
-- Making a YT Channel
+
 - Making a Website
-- Making a Twitter
