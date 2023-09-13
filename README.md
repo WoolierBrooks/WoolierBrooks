@@ -21,7 +21,6 @@
   <img src="./img/python-dark.svg" alt="python" width="50">
   <img src="./img/vscode-dark.svg" alt="vscode" width="50"/>
   <img src="./img/markdown-dark.png" alt="markdown" width="50"/>
-  <img src="./img/1latex-dark.png" alt="markdown" width="50"/>
 </p>
 
 ---
