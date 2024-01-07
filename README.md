@@ -31,15 +31,6 @@
 
 ---
 
-[website]: https://woolierbrooks.com
-[twitter]: https://twitter.com/WoolierBrooks
-[youtube]: https://youtube.com/WoolierBrooks
-[instagram]: https://instagram.com/WoolierBrooks
-[linkedin]: https://linkedin.com/in/WoolierBrooks
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
 Currently working on:
 
 - Creating a YouTube Channel
