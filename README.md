@@ -18,10 +18,15 @@
 ### Languages and Tools:
 
 <p align="left">
+  <img src="./img/aws-dark.svg" alt="vscode" width="50"/>
+  <img src="./img/sql-dark.svg" alt="sql" width="50"/>
   <img src="./img/python-dark.svg" alt="python" width="50">
+  <img src="./img/r-dark.svg" alt="r" width="50"/>
+  <img src="./img/linux-dark.png" alt="linux" width="50"/>
   <img src="./img/vscode-dark.svg" alt="vscode" width="50"/>
   <img src="./img/markdown-dark.png" alt="markdown" width="50"/>
-  <img src="./img/linux-dark.png" alt="markdown" width="50"/>
+  <img src="./img/css-dark.svg" alt="vscode" width="50"/>
+  <img src="./img/html-dark.svg" alt="vscode" width="50"/>
 </p>
 
 ---
