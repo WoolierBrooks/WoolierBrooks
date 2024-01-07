@@ -42,4 +42,4 @@
 
 Currently working on:
 
-- Making a Website
+- Creating a YouTube Channel
