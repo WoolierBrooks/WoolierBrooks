@@ -1,10 +1,10 @@
-# Hi there, I'm [WoolierBrooks][youtube] 👋 
+# Hi there, I'm Julio Riveros _aka_ [WoolierBrooks](https://www.woolierbrooks.com/) 👋 
 
 ## I'm a biotechnology student with a strong interest in bioinformatics!
 
 - 🧠 I’m currently learning everything 🤣
 - 🥂 I’m looking to collaborate with others developers/scientists
-- 🥅 2023 Goals: Becoming proficient in machine learning
+- 🥅 2024 Goals: Secure an entry-level position in the biotech industry
 - ⚡ Fun fact: I'm enthusiastic about a healthy lifestyle and enjoy activities like weightlifting and running
 
 ### Connect with me:
