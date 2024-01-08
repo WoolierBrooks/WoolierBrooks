@@ -14,7 +14,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/WoolierBrooks#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/WoolierBrooks#gh-dark-mode-only)
-[![website](./img/email-dark.svg)](mailto:jcr.cardus.2020@aluno.unila.edu.br)
+<a href="mailto:jcr.cardus.2020@aluno.unila.edu.br">
+  <img src="./img/email-dark.svg" alt="website" style="width: 50px;">
+</a>
 
 ### Languages and Tools:
 
