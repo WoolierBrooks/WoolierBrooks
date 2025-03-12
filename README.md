@@ -4,7 +4,6 @@
 
 - 🧠 I’m currently learning everything 🤣
 - 🥂 I’m looking to collaborate with others developers/scientists
-- 🥅 2024 Goals: Secure an entry-level position in the biotech industry
 - ⚡ Fun fact: I'm enthusiastic about a healthy lifestyle and enjoy activities like weightlifting and running
 
 ### Connect with me:
